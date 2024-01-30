@@ -1,7 +1,5 @@
-package com.collgemv;
-
-import java.util.ArrayList;
-
+//On nomme la classe de la même façon que le nom du fichier
+//Le nom de la classe commence par une lettre majuscule selon les conventions dans ce cours
 public class Main {
 	/*Déclaration d'une constante en java
 	 - private pour dire que la variable est privée 
@@ -52,6 +50,7 @@ public class Main {
 	}
 	
 	// Cette fonction fait l'addition de deux nombres
+	// Le nom de la méthode commence par une lettre minuscule dans le cours
 	public static int addition(int nombre, int nombre2) {
 		return nombre + nombre2;
 	}
