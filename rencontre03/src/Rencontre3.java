@@ -53,23 +53,4 @@ public class Rencontre3 {
 	public static double calculerHypothenuse2(double a, double b) {		
 		return Math.hypot(a, b);
 	}
-	
-	
-	
-	
-	
-	
-
-    static String switchExample(int value) {
-        return switch (value) {
-            case 1 -> "One";
-            case 2 -> {
-                System.out.println("Processing value 2");
-                yield "Two";
-            }
-            case 3 -> "Three";
-            default -> "Other";
-        };
-    }
-
 }
