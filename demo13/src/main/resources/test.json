@@ -1,0 +1,20 @@
+{
+  "nom" : "Jean Dupont",
+  "age" : 35,
+  "poste" : "Développeur web",
+  "competences" : [ "JavaScript", "HTML", "CSS" ],
+  "adresse" : {
+    "rue" : "123 rue Principale",
+    "ville" : "Villeville",
+    "code_postal" : "12345"
+  },
+  "projets" : [ {
+    "nom" : "Site e-commerce",
+    "client" : "ABC Entreprises",
+    "duree" : "6 mois"
+  }, {
+    "nom" : "Application de gestion",
+    "client" : "XYZ Société",
+    "duree" : "4 mois"
+  } ]
+}
