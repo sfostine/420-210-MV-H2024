@@ -1,0 +1,10 @@
+{
+  "taille" : 300,
+  "listeFichier" : [ {
+    "taille" : 100,
+    "nom" : "Test1.docx"
+  }, {
+    "taille" : 200,
+    "nom" : "Test2.docx"
+  } ]
+}
